@@ -555,6 +555,10 @@ DOMAIN-SUFFIX,ad1.xiaomi.com
 DOMAIN-SUFFIX,adv.sec.intl.miui.com
 DOMAIN-SUFFIX,adv.sec.miui.com
 DOMAIN-SUFFIX,api.installer.xiaomi.com
+DOMAIN-SUFFIX,a0.app.xiaomi.com
+DOMAIN-SUFFIX,miav-cse.avlyun.com
+DOMAIN-SUFFIX,miui-fxcse.avlyun.com
+DOMAIN-SUFFIX,avlyun.com
 DOMAIN-SUFFIX,bss.pandora.xiaomi.com
 DOMAIN-SUFFIX,d.g.mi.com
 DOMAIN-SUFFIX,data.mistat.xiaomi.com
