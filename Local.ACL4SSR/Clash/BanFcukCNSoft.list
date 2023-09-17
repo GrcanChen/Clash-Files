@@ -22,18 +22,6 @@ DOMAIN-SUFFIX,minipage.2345.cn
 DOMAIN-SUFFIX,wan.2345.cn
 DOMAIN-SUFFIX,zhushou.2345.cn
 
-#souhu
-DOMAIN-SUFFIX,go2map.com
-DOMAIN-SUFFIX,sogo.com
-DOMAIN-SUFFIX,sogou.com
-DOMAIN-SUFFIX,sogoucdn.com
-DOMAIN-SUFFIX,sohu-inc.com
-DOMAIN-SUFFIX,sohu.com
-DOMAIN-SUFFIX,sohucs.com
-DOMAIN-SUFFIX,sohuno.com
-DOMAIN-SUFFIX,sohurdc.com
-DOMAIN-SUFFIX,v-56.com
-
 # Kingsoft
 DOMAIN-SUFFIX,wps.cn
 DOMAIN-SUFFIX,wps.com
